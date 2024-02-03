@@ -25,7 +25,7 @@ Follow these steps to build and run the project in a Docker container:
 
 1. **Build Docker Image:**
     ```bash
-    docker build -t <your_image_name> -f Dockerfile.txt .
+    docker build -t <your_image_name> -f Dockerfile .
     ```
 
 2. **Run Docker Container:**
