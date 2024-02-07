@@ -23,9 +23,3 @@ phases:
   post_build:
     commands:
       - echo "Build completed successfully!"
-  artifacts:
-    files:
-      - '**/*'
-      base-directory: base_dir
-      name: fraud-detection
-      discard-paths: no
