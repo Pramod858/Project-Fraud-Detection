@@ -26,4 +26,4 @@ phases:
   artifacts:
   files:
     - '**/*'
-  base-directory: ../fraud-detection-app
+  base-directory: ../fraud-detection
